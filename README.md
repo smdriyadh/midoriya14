@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @midoriya14
-- 👀 I’m interested in web development, video editing
+- 👋 Hi, I’m MD. RIYADH SHEIKH
+- 👀 I’m interested in web development, video editing, and software development
 - 🌱 I’m currently learning MVC
 - 💞️ I’m looking to collaborate on ...
 - 📫 Mail: smdriyadh14@gmail.com
