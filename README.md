@@ -1,7 +1,6 @@
 - 👋 Hi, I’m MD. RIYADH SHEIKH
-- 👀 I’m interested in web development, video editing, and software development
-- 🌱 I’m currently learning MVC
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software development, web development, and video editing
+- 🌱 I’m currently learning MVC, .NET
 - 📫 Mail: smdriyadh14@gmail.com
 
 <!---
