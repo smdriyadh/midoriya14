@@ -14,6 +14,7 @@
 - 📫 How to reach me: **smdriyadh14@gmail.com**  
 - 🔗 LinkedIn: [in/smdriyadh](https://linkedin.com/in/smdriyadh)  
 - 🔗 Facebook: [sheikhmdriyadh](https://facebook.com/sheikhmdriyadh)
+- 🔗 UpWork: [MD. RIYADH SHEIKH](https://www.upwork.com/freelancers/~015fc5856a07308b6e?mp_source=share)
 
 ---
 
