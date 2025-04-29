@@ -49,13 +49,25 @@
 ### 🚀 Featured Projects
 
 - 🔗 [**Startup-Business-Promotion-and-Sales-Agent-Platform**](https://github.com/smdriyadh/Startup-Business-Promotion-and-Sales-Agent-Platform)  
-  A web-based platform to promote startup businesses and streamline sales agent workflows using PHP, JavaScript, HTML5, and CSS3. :contentReference[oaicite:3]{index=3}
-
-- 🔗 [**EDGE_Front-End**](https://github.com/smdriyadh/EDGE_Front-End)  
-  Front-end course project covering React, Node.js, Vue.js, and Angular for the Bangladesh Computer Council’s EDGE initiative. :contentReference[oaicite:4]{index=4}
-
+  A web-based platform to promote startup businesses and streamline sales agent workflows. :contentReference[oaicite:0]{index=0}
+- 🔗 [**Farm-Management-System**](https://github.com/smdriyadh/Farm-Management-System) – An interactive farm management system built with C# Windows Forms and Oracle Database. :contentReference[oaicite:3]{index=3}  
+- 🔗 [**Student-Hostel-Management-System**](https://github.com/smdriyadh/Student-Hostel-Management-System) – A hostel management system using C# Windows Forms and MySQL. :contentReference[oaicite:4]{index=4}
 - 🔗 [**The-Padma-Bridge**](https://github.com/smdriyadh/The-Padma-Bridge)  
-  A C++ & OpenGL visualization of the Padma Bridge focused on realistic rendering for architectural insight. :contentReference[oaicite:5]{index=5}
+  A C++ & OpenGL visualization of the Padma Bridge focused on realistic rendering. :contentReference[oaicite:2]{index=2}
+
+---
+
+### ✨ Other Projects
+- 🔗 [**EDGE_Front-End**](https://github.com/smdriyadh/EDGE_Front-End)  
+  Front-end course project covering React, Node.js, Vue.js, and Angular for BCC’s EDGE initiative. :contentReference[oaicite:1]{index=1}
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=smdriyadh&theme=tokyonight&column=7" alt="Achievements"/>
+</p>
 
 ---
 
@@ -78,9 +90,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smdriyadh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
-
-
-<!---
-midoriya14/midoriya14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----!>
