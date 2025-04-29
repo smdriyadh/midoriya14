@@ -46,7 +46,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects:
 
 - 🔗 [**Startup-Business-Promotion-and-Sales-Agent-Platform**](https://github.com/smdriyadh/Startup-Business-Promotion-and-Sales-Agent-Platform)  
   A web-based platform to promote startup businesses and streamline sales agent workflows. :contentReference[oaicite:0]{index=0}
@@ -57,7 +57,7 @@
 
 ---
 
-### ✨ Other Projects
+### ✨ Courses:
 - 🔗 [**EDGE_Front-End**](https://github.com/smdriyadh/EDGE_Front-End)  
   Front-end course project covering React, Node.js, Vue.js, and Angular for BCC’s EDGE initiative. :contentReference[oaicite:1]{index=1}
 
